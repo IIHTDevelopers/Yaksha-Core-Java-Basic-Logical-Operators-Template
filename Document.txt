@@ -1,0 +1,50 @@
+Java Logical Operators Assessment: AND, OR, NOT
+Overview:
+In this project, you will demonstrate your understanding of Java Logical Operators. The task will focus on three essential logical operators used in Java:
+
+AND (&&): Evaluates to true if both conditions are true.
+OR (||): Evaluates to true if at least one of the conditions is true.
+NOT (!): Negates or inverts the boolean value of a condition.
+These logical operators are fundamental for controlling the flow of execution in programs, particularly when you need to combine conditions or make decisions based on multiple factors.
+
+Assessment Tasks:
+1. Logical Operators:
+AND (&&): This operator checks whether both conditions are true. If both conditions are true, the result will be true; otherwise, it will be false.
+
+OR (||): This operator checks if at least one of the conditions is true. If either condition is true, the result will be true.
+
+NOT (!): This operator inverts the boolean value of the condition. If the value is true, it becomes false; if it's false, it becomes true.
+
+Task Example: Evaluate whether two conditions are true using &&, whether at least one condition is true using ||, and negate a boolean condition using !.
+
+2. Implementation Instructions:
+In this task, you will complete a Java program that demonstrates the use of these logical operators in different scenarios. Below are the specific instructions and tasks for you to implement.
+
+Instructions:
+1. Declare Two Boolean Variables:
+You will declare two boolean variables a and b. These variables will be used to perform the logical operations required in the task.
+
+2. Perform Logical Operations:
+You will apply the logical operators (&&, ||, !) on the boolean variables a and b.
+You will perform each of the following operations and print the result:
+AND (&&): Check if both a and b are true.
+OR (||): Check if at least one of a or b is true.
+NOT (!): Negate the values of a and b.
+
+3. Use Logical Operators in Combination:
+You will combine multiple logical operators to create more complex conditions and evaluate the results.
+Example:
+Check if a number x is between two values using the logical AND (&&) operator.
+Use the OR (||) operator to check if either of two conditions is true.
+Use the NOT (!) operator to negate a condition.
+For example, check whether x is greater than 5 and less than 15, or y is between 10 and 25, using the AND and OR operators:
+
+You will also create other complex expressions combining &&, ||, and ! as needed and print the results.
+
+Conclusion:
+In this project, you will:
+
+Understand how logical operators (&&, ||, !) work in Java.
+Practice combining these operators to form complex boolean expressions.
+Demonstrate your ability to manipulate boolean values and expressions in Java.
+By completing this task, you will gain a stronger understanding of how logical operations influence the flow of control in a Java program, which is essential for decision-making and conditional logic.
